@@ -247,4 +247,6 @@ source "drivers/sensors/Kconfig"
 
 
 source "drivers/lindroid-drm/Kconfig
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
